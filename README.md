@@ -1,2 +1,1 @@
-## account visual
-for check everyday payment
+## Base bolierplate for react
