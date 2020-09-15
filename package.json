@@ -1,7 +1,7 @@
 {
-  "name": "account-visual",
+  "name": "react-base-bolierplate",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -38,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "url": "git@github.com:ZQ-jhon/react-base-bolierplate.git",
+    "type": "git"
   }
 }
