@@ -1,6 +1,6 @@
 {
-  "name": "react-base-bolierplate",
-  "version": "0.1.0",
+  "name": "@ZQ-jhon/react-base-bolierplate",
+  "version": "0.0.1",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -42,5 +42,8 @@
   "repository": {
     "url": "git@github.com:ZQ-jhon/react-base-bolierplate.git",
     "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
