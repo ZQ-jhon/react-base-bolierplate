@@ -1737,10 +1737,10 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@26.0.18":
-  version "26.0.18"
-  resolved "https://registry.npmjs.org/@types/jest/-/jest-26.0.18.tgz"
-  integrity sha512-scDPs+mELZgsFetTgBSsIxKGrlitn9t/d2ecP+S1QSIGD+31fkMBEftLfOAX5k3tU06/0PjreJIQ+gWEbbHqpw==
+"@types/jest@26.0.22":
+  version "26.0.22"
+  resolved "https://registry.npmjs.org/@types/jest/-/jest-26.0.22.tgz"
+  integrity sha512-eeWwWjlqxvBxc4oQdkueW5OF/gtfSceKk4OnOAGlUSwS/liBRtZppbJuz1YkgbrbfGOoeBHun9fOvXnjNwrSOw==
   dependencies:
     jest-diff "^26.0.0"
     pretty-format "^26.0.0"
